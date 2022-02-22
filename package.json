@@ -1,0 +1,23 @@
+{
+  "name": "loogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^4.2.0",
+    "aws-sdk": "^2.1050.0",
+    "axios": "^0.24.0",
+    "csv-writer": "^1.6.0",
+    "file-reader": "^1.1.1",
+    "FileReader": "^0.10.2",
+    "fs": "^0.0.1-security",
+    "node-stream-zip": "^1.15.0",
+    "string-to-json-converter": "^1.0.1"
+  }
+}
